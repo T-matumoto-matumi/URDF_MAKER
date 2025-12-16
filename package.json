@@ -1,0 +1,66 @@
+{
+  "devDependencies": {
+    "@vitejs/plugin-react": "^5.1.2",
+    "vite": "^7.3.0"
+  },
+  "name": "urdf_maker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "@react-three/drei": "^10.7.7",
+    "@react-three/fiber": "^9.4.2",
+    "baseline-browser-mapping": "^2.9.7",
+    "browserslist": "^4.28.1",
+    "caniuse-lite": "^1.0.30001760",
+    "convert-source-map": "^2.0.0",
+    "debug": "^4.4.3",
+    "electron-to-chromium": "^1.5.267",
+    "esbuild": "^0.27.1",
+    "escalade": "^3.2.0",
+    "fast-xml-parser": "^5.3.3",
+    "fdir": "^6.5.0",
+    "gensync": "^1.0.0-beta.2",
+    "js-tokens": "^4.0.0",
+    "jsesc": "^3.1.0",
+    "json5": "^2.2.3",
+    "lru-cache": "^5.1.1",
+    "lucide-react": "^0.561.0",
+    "ms": "^2.1.3",
+    "nanoid": "^3.3.11",
+    "node-releases": "^2.0.27",
+    "picocolors": "^1.1.1",
+    "picomatch": "^4.0.3",
+    "postcss": "^8.5.6",
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3",
+    "react-refresh": "^0.18.0",
+    "rollup": "^4.53.4",
+    "semver": "^6.3.1",
+    "source-map-js": "^1.2.1",
+    "three": "^0.182.0",
+    "tinyglobby": "^0.2.15",
+    "update-browserslist-db": "^1.2.2",
+    "urdf-loader": "^0.12.6",
+    "uuid": "^13.0.0",
+    "yallist": "^3.1.1",
+    "zustand": "^5.0.9"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/T-matumoto-matumi/URDF_MAKER.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/T-matumoto-matumi/URDF_MAKER/issues"
+  },
+  "homepage": "https://github.com/T-matumoto-matumi/URDF_MAKER#readme",
+  "description": ""
+}
